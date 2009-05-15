@@ -90,4 +90,3 @@ set to 1/0.5 and sfy is set to 1/0.357
     #define bBx 0.25
     #define sfx (1.0 / 0.500)
     #define sfy (1.0 / 0.375)
-.
